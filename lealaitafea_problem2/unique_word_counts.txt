@@ -1,0 +1,14 @@
+a 6
+  been 1
+  Catholic 6
+  or 1
+  father 2
+  was 6
+  had 1
+  Nory 2
+  mother 3
+  his 1
+  her 3
+  and 2
+  because 3
+  
